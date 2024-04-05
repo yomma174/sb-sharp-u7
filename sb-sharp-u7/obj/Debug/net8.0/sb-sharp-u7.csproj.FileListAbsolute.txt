@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\bin\Debug\net8.0\sb-sharp-u7.exe
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\bin\Debug\net8.0\sb-sharp-u7.deps.json
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\bin\Debug\net8.0\sb-sharp-u7.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\bin\Debug\net8.0\sb-sharp-u7.dll
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\bin\Debug\net8.0\sb-sharp-u7.pdb
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.sourcelink.json
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.dll
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\refint\sb-sharp-u7.dll
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.pdb
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\sb-sharp-u7.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\sb-sharp-u7\sb-sharp-u7\obj\Debug\net8.0\ref\sb-sharp-u7.dll

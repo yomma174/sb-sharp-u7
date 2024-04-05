@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("sb-sharp-u7")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lesson_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db3fb70bdfffa441855002ab8dfd271ac4905386")]
-[assembly: System.Reflection.AssemblyProductAttribute("sb-sharp-u7")]
-[assembly: System.Reflection.AssemblyTitleAttribute("sb-sharp-u7")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lesson_01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lesson_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
