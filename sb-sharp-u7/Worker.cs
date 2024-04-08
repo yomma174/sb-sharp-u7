@@ -8,53 +8,35 @@ namespace sb_sharp_u7
 {
     struct Worker
     {
-        public string Position;
+        public int Id {  get; set; }
+        public DateTime CreateDate {  get; set; }
+        public string FIO {  get; set; }
+        public int Age { get; set; }
+        public int Height { get; set; }
+        public DateTime BirthDate { get; set; }
+        public string BirthPlace { get; set; }
 
-        public uint Salary;
 
-        public string FirstName;
-
-        public string LastName;
-
-        public DateTime DateOfBirth;
+        public Worker(int Id, DateTime CreateDate, string FIO, int Age, int Height, DateTime BirthDate, string BirthPlace)
+        {  
+            this.Id = Id;
+            this.CreateDate = CreateDate;
+            this.FIO = FIO;
+            this.Age = Age;
+            this.Height = Height;
+            this.BirthDate = BirthDate;
+            this.BirthPlace = BirthPlace;
+        }
 
         public string Print()
         {
-            return $"Должность: {Position} Зарплата: {Salary} Имя: {FirstName} Фамилия: {LastName} Дата рождения: {DateOfBirth.ToShortDateString}";
+            return $"ID:{Id,-3}\t" +
+                $"Время записи: {CreateDate:g}\n" +
+                $"ФИО: {FIO}\n" +
+                $"Возраст: {Age,-2}; " +
+                $"Рост: {Height,-3}; " +
+                $"Дата рождения: {BirthDate:d}; " +
+                $"Место рождения: {BirthPlace}\n";
         }
-
-        public Worker(string Position, uint Salary, string FirstName, string LastName, DateTime DateOfBirth) 
-        { 
-            this.Position = Position ;
-            this.Salary = Salary ;
-            this.FirstName = FirstName ;
-            this.LastName = LastName ;
-            this.DateOfBirth = DateOfBirth ;
-        }
-
-        public Worker(string Position, uint Salary, string FirstName, string LastName) :
-            this(Position, Salary, FirstName, LastName,new DateTime(1900, 1, 1, 0, 0, 0))
-        {
-
-        }
-
-        public Worker(string Position, uint Salary, string FirstName) :
-            this(Position, Salary, FirstName, String.Empty, new DateTime(1900, 1, 1, 0, 0, 0))
-        {
-
-        }
-
-        public Worker(string Position,string FirstName) :
-            this(Position, 0, FirstName, String.Empty, new DateTime(1900, 1, 1, 0, 0, 0))
-        {
-
-        }
-
-        public Worker(string FirstName) :
-            this(String.Empty, 0, FirstName, String.Empty, new DateTime(1900, 1, 1, 0, 0, 0))
-        {
-            this.Salary = 100;
-        }
-
     }
 }

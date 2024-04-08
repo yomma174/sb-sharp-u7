@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|solutionrelative:sb-sharp-u7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|c:\\users\\dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\repository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|solutionrelative:sb-sharp-u7\\repository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|c:\\users\\dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|solutionrelative:sb-sharp-u7\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|c:\\users\\dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\cat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|solutionrelative:sb-sharp-u7\\cat1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|c:\\users\\dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C9D1E1-847A-4EEA-A1B8-9CF8179E36D5}|sb-sharp-u7\\sb-sharp-u7.csproj|solutionrelative:sb-sharp-u7\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository1.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Repository1.cs",
-              "RelativeDocumentMoniker": "sb-sharp-u7\\Repository1.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Repository1.cs",
-              "RelativeToolTip": "sb-sharp-u7\\Repository1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T04:50:04.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cat1.cs",
-              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Cat1.cs",
-              "RelativeDocumentMoniker": "sb-sharp-u7\\Cat1.cs",
-              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Cat1.cs",
-              "RelativeToolTip": "sb-sharp-u7\\Cat1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T03:15:22.026Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Repository.cs",
+              "RelativeDocumentMoniker": "sb-sharp-u7\\Repository.cs",
+              "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Repository.cs",
+              "RelativeToolTip": "sb-sharp-u7\\Repository.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAewHcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:49:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Worker.cs",
               "RelativeDocumentMoniker": "sb-sharp-u7\\Worker.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Worker.cs",
               "RelativeToolTip": "sb-sharp-u7\\Worker.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAIBFwDMAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAABIwCMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T02:32:54.717Z"
+              "WhenOpened": "2024-04-06T18:59:52.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +57,7 @@
               "RelativeDocumentMoniker": "sb-sharp-u7\\Program.cs",
               "ToolTip": "C:\\Users\\Dmitriy\\source\\repos\\sb-sharp-u7\\sb-sharp-u7\\Program.cs",
               "RelativeToolTip": "sb-sharp-u7\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAQAAAAFAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAwEkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T01:42:38.081Z",
               "EditorCaption": ""

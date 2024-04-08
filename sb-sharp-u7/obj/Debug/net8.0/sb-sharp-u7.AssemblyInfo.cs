@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sb-sharp-u7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db3fb70bdfffa441855002ab8dfd271ac4905386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5821e52364cd8ae772c61caddcf264edd240244a")]
 [assembly: System.Reflection.AssemblyProductAttribute("sb-sharp-u7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sb-sharp-u7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
